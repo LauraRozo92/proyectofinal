@@ -1,0 +1,36 @@
+.Home {
+    background-image: url(https://i-h2.pinimg.com/564x/3e/52/01/3e52011a81455c7ed28547844212766b.jpg);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    float:left;
+    width:20%;
+    text-align: center;
+    font-size: 60px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border:2px solid black;
+    box-sizing: border-box;
+    margin-right: 10px;
+    height: 300px;
+    padding-top: 60px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+ 
+}
+.card img {
+    width: 75%;
+ 
+}
+
+.card-body {
+    text-align: center;
+    font: bold 40% sans-serif ;
+
+}

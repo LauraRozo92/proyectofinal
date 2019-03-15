@@ -1,0 +1,21 @@
+.RegisterUser {
+    background-image: url(https://i-h2.pinimg.com/564x/3e/52/01/3e52011a81455c7ed28547844212766b.jpg);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.RegisterUser input{
+
+    color: black;
+}
+
+
+.RegisterUser select{
+
+    color: black;
+}
